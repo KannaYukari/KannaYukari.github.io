@@ -2,6 +2,7 @@
 title: "Recomendação: 赤ペンおねがいします (Aka Pen Onegai Shimasu)"
 author: kanna
 layout: post
+excerpt_separator: <!--more-->
 ---
 
 <br />
@@ -11,6 +12,7 @@ Título português: Por favor, me dê a caneta vermelha.<br />
 Lançamento: Jul.23.2015<br />
 Autor:&nbsp;<a 0px="" 14.08px="" 5px="" aria-describedby="qtip-20" arial="" class="artistLink" data-entry-id="292" data-hasqtip="20" font-size:="" helvetica="" href="https://vocadb.net/Ar/292" margin:="" neue="" oldtitle="PowapowaP, 椎名もた, siinamota, FulkawaNoro, 仁王立ち, Nioudachi, ハイカラさん, highcolor_sunz, Pico:" outline:="" sans-serif="" style="background-color: #fcfdfd; color: #0065b2;" title="">ぽわぽわP</a>&nbsp;Powapowa-P (music, lyrics, illust) e Yuuma (video)<br />
 Vocal: Hatsune Miku<br />
+<!--more-->
 <br />
 <br />
 <h4 style="text-align: center;">
