@@ -1,5 +1,27 @@
-title: Moonlight -Kanna Yukari
+title: Moondust
 description: O diario lunar.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-architect
+url: "https://KannaYukari.github.io"
+baseurl: ''
+permalink: /:categories/:title
+gems:
+  - jemoji
+exclude:
+  - "README.md"
+  - "CHANGELOG.md"
+  - "CNAME"
+  - "Gemfile"
+  - "Gemfile.lock"
+permalink: :title
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
