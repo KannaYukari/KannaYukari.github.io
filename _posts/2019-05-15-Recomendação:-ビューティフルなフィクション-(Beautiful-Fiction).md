@@ -2,16 +2,17 @@
 title: "Recomendação: ビューティフルなフィクション (Beautiful Fiction)"
 author: kanna
 layout: post
+excerpt_separator: <!--more-->
 ---
 
-<br />
 Título original: ビューティフルなフィクション<br />
 Romanji: Beautiful Fiction<br />
 Título português: Bela ficção <br />
 Lançamento: Nov 20, 2018<br />
 Autor/compositor: ピノキオピー  (PinocchioP) <br />
-<br />
-<hr />
+
+<!--more-->
+
 <div class="post-full-content">
 <span style="text-align: justify;">Beautiful Fiction é uma música escrita e composta por Pinocchio-P, com a edição do vídeo feito por 駿 (Hayao/ @oumlr) e cantada na voz de Hatsumi Miku.</span><br />
 <br />
