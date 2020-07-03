@@ -1,20 +1,37 @@
 ---
 layout: default
+home-page: TRUE
 ---
 
-{% for post in site.posts limit:site.data.theme.num_home_posts %}
-<div class="post-header-home">
-  <h1 class="post-title-home">
-    <a href="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</a>
-  </h1>
-  {% include post-header-home.html %}
+<h1>Últimas postagens</h1><br>
+<div class="galeria">
+  {% for post in site.posts limit:site.data.theme.num_home_posts %}
+  <div class="post">
+    <img src="/images/cover/{{ post.cover | prepend:site.baseurl }}" alt="Capa da postagem '{{post.title}}'">
+    <h2 class="post-title-home">
+      <a href="{{ post.url | prepend:site.baseurl }}">
+        {{ post.title }}
+      </a>
+    </h2>
+    <h5>{% include post-header-home.html %}</h5>
+    <div class="post-excerpt-home">
+      {% if post.categories contains "recomendação"%}
+        {{ post.excerpt | strip_html | newline_to_br | truncatewords: site.data.theme.num_truncatewords }}&nbsp;
+      {% else %}
+        {{ post.excerpt | strip_html | truncatewords: site.data.theme.num_truncatewords
+ }}&nbsp;
+      {% endif %}
+      <a href="{{ post.url | prepend:site.baseurl }}">
+        Continuar lendo &rarr;
+      </a>
+    </div>
+  </div>
+  {% endfor %}
 </div>
-<div class="post-excerpt-home">
-  {{ post.excerpt }}
-  <p class="text-right"><a href="{{ post.url | prepend:site.baseurl }}">Continuar lendo &rarr;</a></p>
-</div>
-{% endfor %}
+
 <hr>
 <div class="home-read-more">
-  <a href="{{ "/histórico" | prepend:site.baseurl }}" class="btn btn-primary btn-block btn-lg">Listar todos os {{ site.posts | size }} blogs →</a>
+  <a href="{{ "/histórico" | prepend:site.baseurl }}">
+    Listar todos os {{ site.posts | size }} blogs →
+  </a>
 </div>

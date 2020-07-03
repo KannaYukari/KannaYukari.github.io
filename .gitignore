@@ -1,0 +1,9 @@
+atualizar_blog.sh
+
+.git
+
+### Jekyll ###
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata

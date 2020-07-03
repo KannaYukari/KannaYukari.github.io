@@ -1,32 +1,28 @@
-<li class="nav-item dropdown">
-  <a data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-     Postagens
-   </a>
-  <div class="dropdown-menu">
-    <a href="{{ '/diário' | prepend:site.baseurl }}">⠀✪ Diário</a><br>
-    <a href="{{ '/análise' | prepend:site.baseurl }}">⠀✪ Análise</a>
-  </div>
-</li>
-<li class="nav-item dropdown">
-  <a data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-     Recomendações
-   </a>
-  <div class="dropdown-menu">
-    <a href="{{ '/animes' | prepend:site.baseurl }}">⠀✪ Animes</a><br>
-    <a href="{{ '/músicas' | prepend:site.baseurl }}">⠀✪ Músicas</a>
-  </div>
-</li>
-<li class="nav-item dropdown">
-  <a data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-     Projetos
-   </a>
-  <div class="dropdown-menu">
-    <a href="{{ '/Explosion' | prepend:site.baseurl }}">⠀✪ Explosion!!!</a><br>
-    <a href="{{ '/AminoTex++' | prepend:site.baseurl }}">⠀✪ AminoText++</a>
-  </div>
-</li>
-<li>
-  <a href="{{ '/links' | prepend:site.baseurl }}">
-    Links úteis
-  </a>
-</li>
+<ul>
+  <li class="menu-item">
+    <a>Moonshine<br> <h6>Grimório pessoal</h6></a>
+    <ul class="menu-dropdown">
+      <li class="menu-item-dropdown menu-item""><a href="{{ '/diário' | prepend:site.baseurl }}">✪ Diário</a></li>
+      <li class="menu-item-dropdown menu-item""><a href="{{ '/poesias' | prepend:site.baseurl }}">✪ Poesias</a></li>
+    </ul>
+  </li>
+  <li class="menu-item">
+    <a>Moonglade<br> <h6>Grimório com listas</h6></a>
+    <ul class="menu-dropdown">
+      <li class="menu-item-dropdown menu-item"><a href="{{ '/animes' | prepend:site.baseurl }}">✪ Animes</a></li>
+      <li class="menu-item-dropdown menu-item"><a href="{{ '/músicas' | prepend:site.baseurl }}">✪ Músicas</a></li>
+      <li class="menu-item-dropdown menu-item"><a href="{{ '/links' | prepend:site.baseurl }}">✪ Links úteis</a></li>
+    </ul>
+  </li>
+  <li class="menu-item">
+    <a>Moondust<br> <h6>Grimório mágico</h6></a>
+    <ul class="menu-dropdown">
+      <li class="menu-item-dropdown menu-item"><a href="{{ '/riichi' | prepend:site.baseurl }}">✪ Riichi!</a></li>
+      <!-- <li><a href="{{ '/Explosion' | prepend:site.baseurl }}">⠀✪ Explosion!!!</a></li> -->
+      <!-- <li><a href="{{ '/AminoTex++' | prepend:site.baseurl }}">⠀✪ AminoText++</a></li> -->
+    </ul>
+  </li>
+  <li class="menu-item"><a href="{{ "/pesquisar" | prepend:site.baseurl }}">Pesquisar</a></li>
+  <li class="menu-item"><a href="{{ "/histórico" | prepend:site.baseurl }}">Biblioteca</a></li>
+  <li class="menu-item border-bottom"><a href="{{ "/about" | prepend:site.baseurl }}">Sobre</a></li>
+</u>

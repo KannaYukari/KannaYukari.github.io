@@ -1,7 +1,11 @@
 ---
 title: "Recomendação: ビューティフルなフィクション (Beautiful Fiction)"
-author: kanna
+author: Kanna
+categories:
+  - recomendação
+  - musica
 layout: post
+cover: test1.jpg
 excerpt_separator: <!--more-->
 ---
 
@@ -10,7 +14,6 @@ Romanji: Beautiful Fiction<br />
 Título português: Bela ficção <br />
 Lançamento: Nov 20, 2018<br />
 Autor/compositor: ピノキオピー  (PinocchioP) <br />
-
 <!--more-->
 
 <div class="post-full-content">

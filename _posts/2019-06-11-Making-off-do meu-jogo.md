@@ -1,11 +1,14 @@
 ---
 title: "Making off do meu jogo!"
-author: kanna
+author: Kanna
+cover: test3.jpg
+categories: diário
+excerpt_separator: <!--more-->
 layout: post
 ---
 
 Eu realmente estou um pouco animada, pensando em criar um jogo, um projeto pessoal mesmo. Eu não pretendo comercializar e nem nada do tipo, penso em ir desenvolvendo no meu tempo livre, atualmente estou com o apoio ra minha amiga Akemi-chan que ajudou na idealização do jogo e dos personagens, mas eu adoraria ter as falas das personagens em áudio mesmo (*risos*), caso tenha algum dublador interessante em apoiar só por diversão mesmo, se manifeste por favor! (^w^)
-
+<!--more-->
 Obs: se tiver voluntários, comente nas postagens em que eu descrever um pouco mais a personagem.
 
 Penso em ir postando o progresso do desenvolvimento aqui no meu diário, claro que vou evitar dar muuuito spoiler ou criar algum tipo de detonado. Mas a princípio, penso em desenvolver o jogo em 3D, tanto para PC como pra Android e iOS, o modelo 3D vou construir no blender e acho que a engine pra construir o código do jogo provavelmente será no Godot, muito por ter uma linguagem bem familiar com o Python (programar em Python é meio viciante @.@) e também porque ele tem uma licença de uso mais livre pra eu usar como eu quiser!

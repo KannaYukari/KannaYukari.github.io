@@ -1,20 +1,15 @@
-# Theme customization is done on this file instead of _config.yml so that
-# you don't have to restart Jekyll to see changes.
+intro_homepage: "
+<p>Seja bem-vindo ao meu site!</p>
+<br>
+Aqui eu exponho sobre coisas
+que eu penso e gosto, geralmente sobre cultura oriental, como músicas e jogos,
+além de arte, tecnologia de forma um pouco mais técnica!"
+
+banner: "test1.jpg"
 
 # Number of posts displayed on the home page.
 num_home_posts: 6
-
-# Color scheme based on http://flatuicolors.com/.
-# Possible values:
-# - default
-# - dark
-# - turquoise
-# - green
-# - blue
-# - purple
-# - orange
-# - red
-color: purple
+num_truncatewords: 60
 
 # Show navigation below each post?
 show_post_navs: true

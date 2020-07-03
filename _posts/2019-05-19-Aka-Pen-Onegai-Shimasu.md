@@ -1,46 +1,35 @@
 ---
 title: "Recomendação: 赤ペンおねがいします (Aka Pen Onegai Shimasu)"
-author: kanna
+author: Kanna
 layout: post
+categories:
+  - recomendação
+  - musica
+cover: test3.jpg
 excerpt_separator: <!--more-->
 ---
 
-<br />
-Título original: 赤ペンおねがいします<br />
-Romanji: Aka Pen Onegai Shimasu<br />
-Título português: Por favor, me dê a caneta vermelha.<br />
-Lançamento: Jul.23.2015<br />
-Autor:&nbsp;<a 0px="" 14.08px="" 5px="" aria-describedby="qtip-20" arial="" class="artistLink" data-entry-id="292" data-hasqtip="20" font-size:="" helvetica="" href="https://vocadb.net/Ar/292" margin:="" neue="" oldtitle="PowapowaP, 椎名もた, siinamota, FulkawaNoro, 仁王立ち, Nioudachi, ハイカラさん, highcolor_sunz, Pico:" outline:="" sans-serif="" style="background-color: #fcfdfd; color: #0065b2;" title="">ぽわぽわP</a>&nbsp;Powapowa-P (music, lyrics, illust) e Yuuma (video)<br />
-Vocal: Hatsune Miku<br />
+- Título original: 赤ペンおねがいします
+- Romanji: Aka Pen Onegai Shimasu
+- Título português: Por favor, me dê a caneta vermelha.
+- Lançamento: Jul.23.2015
+- Autor:&nbsp;<a href="https://vocadb.net/Ar/292">ぽわぽわP</a>&nbsp;Powapowa-P (music, lyrics, illust) e Yuuma (video)
+- Vocal: Hatsune Miku'
 <!--more-->
-<br />
-<br />
-<h4 style="text-align: center;">
-Aviso!</h4>
-<div style="text-align: center;">
-Esta música trata sobre um tema delicado, que seria sobre depressão e suicídio. Caso seja sensível a este tipo de conteúdo, recomendo que não leia.</div>
-<div style="text-align: center;">
-<br /></div>
-<div style="text-align: center;">
-Lembre-se, a vida é muito importante, caso ache necessário, entre em contato com o centro de valorização da vida, ligando para o numero 188, eles são uma equipe para apoio emocional e prevenção ao suicídio e atendem 24 hora, de modo sigiloso e gratuito!&nbsp;</div>
-<div style="text-align: center;">
-<br /></div>
-<hr />
-<div style="text-align: center;">
-<a href="https://www.nicovideo.jp/watch/sm26745370" target="_blank">Niconico</a>&nbsp;| <a href="https://www.youtube.com/watch?v=FBGvm_sXMzQ" target="_blank">YouTube</a><br />
-<br />
-<div style="text-align: justify;">
-"Aka pen onegai shimasu" foi a ultima música de Powapowa-P, sendo lançada no dia 23 de julho de 2015, no mesmo dia, meia-hora antes de ter sido encontrado morto. Não foi dito oficialmente a causa da morte dele, mas os fãs acreditam que o autor cometeu suicídio antes de lançar a música para a internet, o que é coerente ao se analisar a letra da música e verificar que as ultimas mensagens que ele tweetou tinha um clima autor-reflexivo (<a href="https://twitter.com/siinamota" target="_blank">link</a>), lembrando também que, no ano seguinte, ele completaria 21 anos, que equivale a maioridade penal no Japão. Provavelmente a causa da morte foi ocultado para evitar que outras pessoas fossem influenciado pelo artista e cometessem o mesmo ato...</div>
-<div style="text-align: center;">
-<br /></div>
-<div style="text-align: justify;">
-<span style="font-size: 17px;">A música tem um clima depressivo e realiza várias analogias usando a "caneta vermelha", comentando que ele só errou no "último teste" que e diz ter deixando uma marca vermelha, que seria uma correlação com um corte.. Ao final a Miku afirma que não acertou nada, ou seja, a personagem acredita não ter acertado nada na vida.&nbsp;</span></div>
-<div style="text-align: justify;">
-<span style="font-size: 17px;"><br /></span></div>
-<br /></div>
-<br />
-<div class="separator" style="clear: both; text-align: center;">
-<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/qgeYqxWDbrM/0.jpg" frameborder="0" height="266" src="https://www.youtube.com/embed/qgeYqxWDbrM?feature=player_embedded" width="320"></iframe></div>
+
+Aviso!
+
+Esta música trata sobre um tema delicado, que seria sobre depressão e suicídio. Caso seja sensível a este tipo de conteúdo, recomendo que não leia.
+
+Lembre-se, a vida é muito importante, caso ache necessário, entre em contato com o centro de valorização da vida, ligando para o numero 188, eles são uma equipe para apoio emocional e prevenção ao suicídio e atendem 24 hora, de modo sigiloso e gratuito!&nbsp;
+
+<a href="https://www.nicovideo.jp/watch/sm26745370" target="_blank">Niconico</a>&nbsp;| <a href="https://www.youtube.com/watch?v=FBGvm_sXMzQ" target="_blank">YouTube</a>
+
+"Aka pen onegai shimasu" foi a ultima música de Powapowa-P, sendo lançada no dia 23 de julho de 2015, no mesmo dia, meia-hora antes de ter sido encontrado morto. Não foi dito oficialmente a causa da morte dele, mas os fãs acreditam que o autor cometeu suicídio antes de lançar a música para a internet, o que é coerente ao se analisar a letra da música e verificar que as ultimas mensagens que ele tweetou tinha um clima autor-reflexivo (<a href="https://twitter.com/siinamota" target="_blank">link</a>), lembrando também que, no ano seguinte, ele completaria 21 anos, que equivale a maioridade penal no Japão. Provavelmente a causa da morte foi ocultado para evitar que outras pessoas fossem influenciado pelo artista e cometessem o mesmo ato...
+
+A música tem um clima depressivo e realiza várias analogias usando a "caneta vermelha", comentando que ele só errou no "último teste" que e diz ter deixando uma marca vermelha, que seria uma correlação com um corte.. Ao final a Miku afirma que não acertou nada, ou seja, a personagem acredita não ter acertado nada na vida.&nbsp;
+
+<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/qgeYqxWDbrM/0.jpg" frameborder="0" height="266" src="https://www.youtube.com/embed/qgeYqxWDbrM?feature=player_embedded" width="320"></iframe>
 <br />
 <table style="width: 100%;">
 <tbody>
@@ -317,11 +306,9 @@ Lembre-se, a vida é muito importante, caso ache necessário, entre em contato c
 <i><br /></i></div>
 <div style="text-align: center;">
 <i>AH!</i></div>
-<div style="text-align: center;">
-<b><br /></b></div>
-<div style="text-align: center;">
-<b>Curiosidade&nbsp;</b></div>
-<div style="text-align: center;">
-<b><br /></b></div>
-<div style="text-align: justify;">
-No Japão, acredita-se que, ao escrever o nome de uma pessoa com tinta vermelha, encurtará a vida da pessoa.  Essa crença decorre da prática de escrever o nome dos membros da família vivos nas lápides da família em vermelho, para só após o falecimento, passar o nome para a cor preta. Outros possíveis significados envolvendo a escrita em vermelho seria: falência financeira (um trocadilho em japonês), a pessoa é uma criminosa ou ainda um sinal despedida (mais relacionada as cartas de desafio até a morte, realizado por samurais).&nbsp;</div>
+
+
+<b>Curiosidade&nbsp;</b>
+
+
+No Japão, acredita-se que, ao escrever o nome de uma pessoa com tinta vermelha, encurtará a vida da pessoa.  Essa crença decorre da prática de escrever o nome dos membros da família vivos nas lápides da família em vermelho, para só após o falecimento, passar o nome para a cor preta. Outros possíveis significados envolvendo a escrita em vermelho seria: falência financeira (um trocadilho em japonês), a pessoa é uma criminosa ou ainda um sinal despedida (mais relacionada as cartas de desafio até a morte, realizado por samurais).&nbsp;
