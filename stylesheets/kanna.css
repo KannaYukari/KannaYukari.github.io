@@ -1,3 +1,12 @@
+---
+principal: "#800080"
+destaque: "#ffbbff"
+escuro: "#590059"
+claro: "#bb00bb"
+cinza: "gray"
+preto: "black"
+---
+
 /* Global */
 
 *{
@@ -21,8 +30,16 @@ a{
   text-align: center;
   justify-content: space-around;
   flex-wrap: wrap;
-  border-bottom: double #ffbbff
+  border-bottom: double {{ page.destaque }};
+
+  color: {{ page.destaque }};
+  background-color: {{ page.principal }};
 }
+
+.header a{
+  color: {{ page.destaque }};
+}
+
 
 /* Header esquerdo */
 
@@ -60,6 +77,11 @@ label[for="botao-menu"]{
 
 /* Header nav */
 
+.menu a{
+  color: {{ page.destaque }};
+  background: {{ page.principal }};
+}
+
 .menu{
   height: auto;
   display: flex;
@@ -75,7 +97,7 @@ label[for="botao-menu"]{
   text-align: center;
   text-decoration: none;
   width: 7rem;
-  float: left;
+  float: right;
   transition: all .5s;
 }
 
@@ -102,7 +124,46 @@ label[for="botao-menu"]{
 
 .show {display:block;}
 
+.media-social{
+  margin: auto 0;
+  display: flex;
+  list-style: none;
+}
+
+.media-social img{
+  border-radius: 2rem;
+  padding: 0.5rem;
+  width: 3rem;
+}
+
+.media-social img:hover{
+  background-color: {{ page.destaque }};
+  transition: all .5s;
+}
+
+.menu a:hover{
+  background: {{ page.escuro }};
+}
+
+.menu-item-dropdown a{
+  background: {{ page.claro }};
+}
+
 /* Corpo */
+
+
+.content a{
+  color: {{ page.principal }};
+}
+
+.post-title-home a{
+  color: {{ page.preto }};
+}
+
+.text-muted{
+  color: {{ page.cinza }};
+}
+
 
 .content{
   font-family: 'Inconsolata', monospace;
@@ -149,8 +210,24 @@ img{
   text-align: justify;
 }
 
+.post-page{
+  width: 60%;
+  margin: auto;
+}
+
 .post-footer{
-  background: black;
+  border-radius: 80px;
+  margin: 1rem;
+  padding: 1rem;
+  background-color: blue;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.post-footer div{
+  margin: auto;
+  text-align: left;
+  max-width: 60%
 }
 
 .post-footer img{
@@ -159,6 +236,9 @@ img{
   object-fit: cover;
   border-radius: 150px;
   background: white;
+}
+.author-name{
+  margin-bottom: 0.5rem;
 }
 
 hr{
@@ -179,6 +259,12 @@ hr{
   display: flow-root;
   font-size: 1.2rem;
   color: #ffbbff;
+}
+
+footer{
+  text-align: center;
+  margin: 1rem;
+  font-size: 0.8rem;
 }
 
 

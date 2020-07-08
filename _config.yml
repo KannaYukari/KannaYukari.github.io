@@ -1,4 +1,7 @@
 title: Kanna Yukari
-description: A fada lunar.
+description: A fada lunar
 url: "https://kanna-yukari.tk"
 show_downloads: true
+
+plugins:
+  - jekyll-seo-tag
